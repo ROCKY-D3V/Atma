@@ -80,6 +80,6 @@ Press `Ctrl+b` and then `d`
     ─「 ᴄʀᴇᴅɪᴛs 」─
 </h3>
 
-- <b>[ᴀɴᴏɴʏᴍᴏᴜs](https://github.com/Skyxlor)  ғᴏʀ  [ғᴀʟʟᴇɴ ᴍᴜsɪᴄ](https://github.com/Skyxlor/Groovy-music) 
+- <b>[skylord](https://github.com/Skyxlor)  ғᴏʀ  [˹ ɢʀᴏᴏᴠʏ ✘ ᴍᴜsɪᴄ ˼](https://github.com/Skyxlor/Groovy-music) 
 
 ━━━━━━━━━━━━━━━━━━━━
